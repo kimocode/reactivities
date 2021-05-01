@@ -21,7 +21,7 @@ function App() {
             <List.Item key={activity.id}>
               {activity.title}
             </List.Item>
-          ))};
+          ))}
      </List>
     </div>
   );
